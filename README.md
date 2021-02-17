@@ -1,2 +1,2 @@
-# plinko
-an animation that wouldn't bore anyone
+# p5.play-boilerplate
+Boiler plate for p5.play
